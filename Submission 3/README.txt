@@ -8,25 +8,22 @@ Native/original format:
 https://draw.io/...
 
 Name, Author, Edition, year and publisher of the Book:
-Speech and Language Processing
-Jurafsky
-3rd edition
-2014
-Pearson
+Speech and Language Processing, Jurafsky, 3rd edition, 2014, Pearson
 
 Link to the book:
-https://amazon.com/...
+https://web.stanford.edu/~jurafsky/slp3/
 
 Link to the book chapter:
-Chapter -9: Deep Learning Architectures for Sequence Processing
+https://web.stanford.edu/~jurafsky/slp3/9.pdf
 
 Group Number:
 08
 
 Group Members:
-19166009 Abdullah Umar Nasib
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+19166009	ABDULLAH UMAR NASIB
+21266007	SAMIHA KHAN
+22166007	SUMAIYA MIM 
+22166016	FAHIM HASNAT
+22166018	MD MAZIDUL HASAN
+22166037	SM MAHSANUL ISLAM
+21341025	JAWAD BIN SAYED

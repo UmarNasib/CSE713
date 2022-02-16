@@ -1,3 +1,3 @@
 Course ID: CSE713
-Name: Abdullah Umar Nasib
+Name: ABDULLAH UMAR NASIB
 ID: 19166009

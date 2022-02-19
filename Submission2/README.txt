@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1D3pRJKPCtgdLekZlUydNOmcjY6DgjbA1/edit?usp=sharing&ouid=109495356017455194485&rtpof=true&sd=true
 
 Paper title:
 A Comparative Study on Handwritten Digit Recognizer using Machine Learning Technique

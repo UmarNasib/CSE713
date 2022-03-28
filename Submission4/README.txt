@@ -4,23 +4,17 @@ http://youtube....
 Conference submitted paper / paper submission / login Link:
 https://easy....
 
-Paper title:
-Covid -19 Detection from X-Ray Images using 2D CNN
+Paper title: Understanding Sarcasm from Reddit Texts using Supervised Algorithms
 
-Paper presentation (anyone can view without login):
-http://slides.google.com/
+Paper presentation: http://slides.google.com/
 
-Paper submission date (to workshop/conference):
-25 October 1999
+Paper submission date: 29 March 2022
 
-Paper submission ID: (received) from conference/workshop
-1341234
+Paper submission ID: 
 
-Conference Name:
-Demo Conference Name
+Conference Name: 10th IEEE Humanitarian Technology Conference (R10 HTC)
 
-Conference URL:
-http://confsite/...
+Conference URL: https://r10htc2022.org/index.php
 
 Group Number:
 08

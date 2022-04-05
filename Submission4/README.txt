@@ -1,20 +1,22 @@
 Unlisted youtube video:
-http://youtube....
+https://youtu.be/mXuS2_5hHaM
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://www.edas.info/showPaper.php?m=1570801699
 
 Paper title: Understanding Sarcasm from Reddit Texts using Supervised Algorithms
 
 Paper presentation: https://docs.google.com/presentation/d/19NLV0zIPed-qF14K-4hcN3E3V0gLfHO_r89JMAUPYKw/edit?usp=sharing
 
-Paper submission date: 4th of April, 2022
+Paper submission date: 5th of April, 2022
 
-Paper submission ID: 
+Paper submission ID: 1570801699
 
 Conference Name: 10th IEEE Humanitarian Technology Conference (R10 HTC)
 
 Conference URL: https://r10htc2022.org/index.php
+
+Paper Status: Submitted and Waiting for Review
 
 Group Number:
 08

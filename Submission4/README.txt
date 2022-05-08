@@ -16,7 +16,7 @@ Conference Name: 10th IEEE Humanitarian Technology Conference (R10 HTC)
 
 Conference URL: https://r10htc2022.org/index.php
 
-Paper Status: Submitted and Waiting for Review
+Paper Status: Accepted
 
 Group Number:
 08
